@@ -1,0 +1,12 @@
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\bin\Debug\net6.0\RefactoringGames.deps.json
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\bin\Debug\net6.0\RefactoringGames.dll
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\bin\Debug\net6.0\RefactoringGames.pdb
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\obj\Debug\net6.0\RefactoringGames.csproj.AssemblyReference.cache
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\obj\Debug\net6.0\RefactoringGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\obj\Debug\net6.0\RefactoringGames.AssemblyInfoInputs.cache
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\obj\Debug\net6.0\RefactoringGames.AssemblyInfo.cs
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\obj\Debug\net6.0\RefactoringGames.csproj.CoreCompileInputs.cache
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\obj\Debug\net6.0\RefactoringGames.dll
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\obj\Debug\net6.0\refint\RefactoringGames.dll
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\obj\Debug\net6.0\RefactoringGames.pdb
+C:\Users\poisonsnake12\source\repos\RefactoringGame\RefactoringGames\obj\Debug\net6.0\ref\RefactoringGames.dll
